@@ -1,0 +1,9 @@
+Bear - toy № 1, probability - 3
+f - toy № 9, probability - 3
+f - toy № 8, probability - 3
+f - toy № 7, probability - 3
+Rabbit - toy № 2, probability - 3
+Parrot - toy № 5, probability - 3
+Humster - toy № 4, probability - 3
+Hero - toy № 6, probability - 3
+Car - toy № 3, probability - 1
